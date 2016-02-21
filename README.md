@@ -1,2 +1,8 @@
 # test_h
-girls who code example
+
+Girls who code example
+
+Used as an illustration of using git hub.
+
+Lead by Axel and Jenna. 
+
